@@ -2,7 +2,7 @@
 
 Meu nome é Vitoria Verona, estudante de desenvolvimento web pela Trybe!
 
-Estudando HTML e CSS
+Estudando HTML, CSS e JavaScript
 
 <br>
 
